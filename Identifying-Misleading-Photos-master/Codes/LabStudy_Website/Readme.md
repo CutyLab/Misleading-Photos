@@ -30,4 +30,4 @@
 
 - **[predictions.json](./predictions.json)**  
   Lab Study中70張照片的各項 Visual Features 的數值，用來跟對應的 Visual Features 基準值做比較，進而顯示該標籤。  
-  [註] 這些對應的 Visual Features 基準值 請參考 [Visual Features 基準值生成](.//Benchmark_of_Visual_Features)。
+  [註] 這些對應的 Visual Features 基準值 請參考 [Visual Features 基準值生成](../Benchmark_of_Visual_Features)。
