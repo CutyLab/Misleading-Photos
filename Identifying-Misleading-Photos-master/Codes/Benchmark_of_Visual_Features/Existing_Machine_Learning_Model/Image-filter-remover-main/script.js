@@ -1,6 +1,6 @@
 (async () => {
   //使用 TensorFlow.js 的 loadLayersModel 方法，從指定的 URL 加載神經網路模型。
-  const model = await tf.loadLayersModel('http://localhost:9000/Filter/model.json');
+  const model = await tf.loadLayersModel('http://localhost:80/Filter/model.json');
   const processedImages = []; // Array to store processed images
   const allPredictionObjects = [];
   document.getElementById('downloadAllButton').style.display = 'none';
