@@ -11,7 +11,7 @@
   實驗採用了 Counterbalancing 設計，總共列出了 28 名受試者的Condition出現順序。
 
 - **[PageOrder.xlsx](./PageOrder.xlsx)**  
-  用來控制實驗網頁中每一頁需要執行的程式碼片段順序。
+  用來控制實驗網頁中每一頁需要執行的Funcition。
 
 - **[lab_study.css](./lab_study.css)**  
   網頁的 CSS 設定，控制頁面的樣式與佈局。
@@ -21,6 +21,13 @@
 
 - **[lab_study.js](./lab_study.js)**  
   JavaScript 檔案，負責網頁的互動行為與功能。
+  分別會讀取以下檔案:
+  - [lab_study.html](./lab_study.html)
+  - [lab_study.css](./lab_study.css)
+  - [ExecutedOrder.xlsx](./ExecutedOrder.xlsx)
+  - [PageOrder.xlsx](./PageOrder.xlsx)
+  - [predictions.json](./predictions.json)
 
 - **[predictions.json](./predictions.json)**  
-  每張照片的各項 Visual Features 的數值，用來跟各項 Visual Features 基準做比較，進而顯示該標籤。
+  Lab Study中70張照片的各項 Visual Features 的數值，用來跟對應的 Visual Features 基準值做比較，進而顯示該標籤。  
+  [註] 這些對應的 Visual Features 基準值 請參考 [Visual Features 基準值生成](.//Benchmark_of_Visual_Features)。
