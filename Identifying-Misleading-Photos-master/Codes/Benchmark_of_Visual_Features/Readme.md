@@ -18,7 +18,7 @@
 **資料夾結構：**
     
   - **[FormalPics](./Blur/FormalPics)**  
-    存放70張實驗會使用到的照片。
+    存放70張實驗會使用到的照片，照片檔名對照的Conditions名稱請參考 [照片檔名對照Conditions名稱表格](../Codes/LabStudy_Website/assets)。
 
   - **[FindThreshold.py](./Blur/FindThreshold.py)**  
     使用 [PhotoSets](./PhotoSets) 中的635張照片來得到 Blur 的 Threshold。
