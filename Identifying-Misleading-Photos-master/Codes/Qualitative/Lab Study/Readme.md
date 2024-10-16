@@ -4,6 +4,7 @@
 
 - **[Cohen_Total.csv](./Cohen_Total.csv)**  
 兩位 Coders 對所有 Semi-Structured Interview 的 Codes 進行 0,1 編碼。
+(第一個row的編碼是什麼意思)
 
 - **[Lab_Cohen.Rmd](./Lab_Cohen.Rmd)**  
 使用 [Cohen_Total.csv](./Cohen_Total.csv) 來取得在 Semi-Structured Interview 提到的 Codes 的 Cohen's kappa value。
