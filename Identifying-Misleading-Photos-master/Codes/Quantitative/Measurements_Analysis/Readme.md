@@ -16,7 +16,8 @@
       將 [JsonToCSV.py](./Data/JsonToCSV.py) 得來的 Dataframe 依照不同 Measurements 切成多個 `cvs` 的程式碼。
 
       - **[MeasurementsRawData](./Data/MeasurementsRawData)**   
-        所有分析使用的 `csv` 都存放在此資料夾。 
+        所有分析使用的 `csv` 都存放在此資料夾。
+        [註] 如果只要分析現有數據，用此資料夾的檔案即可。
 
    
 2. **[Rmd_files](./Rmd_files)**  
