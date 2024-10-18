@@ -17,7 +17,8 @@
 
       - **[MeasurementsRawData](./Data/MeasurementsRawData)**   
         所有分析使用的 `csv` 都存放在此資料夾。
-        [註] 如果只要分析現有數據，用此資料夾的檔案即可。
+        
+        [註] 如果只是需要分析現有的數據，用此資料夾的檔案即可。
 
    
 2. **[Rmd_files](./Rmd_files)**  
