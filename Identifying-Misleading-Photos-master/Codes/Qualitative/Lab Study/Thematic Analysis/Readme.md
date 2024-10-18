@@ -14,7 +14,7 @@
 兩位 Coders 對 [1st Discussion.xlsx](./1st%20Discussion.xlsx) 得到的所有 Codes 進行 0,1 編碼。  
 
 [註] 因為使用 R 分析 Cohen's kappa value 時，`csv`中不能出現中文，所以又另外整理一個專門拿去分析的 `csv`，
-請見 [Cohen_Total.csv](./Cohen_Total.csv)。
+請見 [Cohen_Total.csv](../Cohen_Total.csv)。
 
 ### 4. **[Qualitative Results.xlsx](./Qualitative%20Results.xlsx)**
 分析完所有 Codes 的 Cohen's kappa value 後，整理成此 `xlsx` 方便寫在論文上並且對照，其中也有附上所有 Codes 的 N value (幾位受試者提到該 Codes)，
