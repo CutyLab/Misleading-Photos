@@ -10,10 +10,10 @@
       儲存 Pilot Study 中所有受試者的資料。
 
       - **[JsonToCSV.py](./Data/JsonToCSV.py)**   
-      將所有受試者的 `json` 資料轉換成 `csv`，並將這28個 `csv` 合併成一個 Dataframe ([Formal.csv](/Data/%28Formal%29Participants_Records/Formal.csv))。
+      將所有受試者的 `json` 資料轉換成 `csv`，並將這28個 `csv` 合併成一個 Dataframe ([Formal.csv](./Data/%28Formal%29Participants_Records/Formal.csv))。
 
       - **[Extract_Measurements_Data.py](./Data/Extract_Measurements_Data.py)**   
-      將 [JsonToCSV.py](./Data/JsonToCSV.py) 得來的 Dataframe ([Formal.csv](/Data/%28Formal%29Participants_Records/Formal.csv)) 依照不同 Measurements 切成多個 `cvs` 的程式碼。
+      將 [JsonToCSV.py](./Data/JsonToCSV.py) 得來的 Dataframe ([Formal.csv](./Data/%28Formal%29Participants_Records/Formal.csv)) 依照不同 Measurements 切成多個 `cvs` 的程式碼。
 
       - **[MeasurementsRawData](./Data/MeasurementsRawData)**   
         所有分析使用的 `csv` 都存放在此資料夾。
